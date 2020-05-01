@@ -1,25 +1,28 @@
 ﻿# [Nordic](https://github.com/sochub/Nordic)
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 父级：[vendor](https://github.com/sochub/vendor) 
 
-[Nordic](https://www.nordicsemi.com/Products)成立于1983年挪威，主要致力于混频电路，模拟电路，数字电路的IP设计和高频短距离RF IC的开发。Nordic在1998年就推出了2.4Ghz的产品，2006年左右，Nordic联合NOKIA开发出了一种超低功耗蓝牙无线技术Wibree，可以说这是当前流行的BLE的前身。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
 
-###  [BLE产品](https://github.com/sochub/Nordic)  
+[Nordic](https://www.nordicsemi.com) 成立于1983年挪威，主要致力于混频电路，模拟电路，数字电路的IP设计和高频短距离RF IC的开发。Nordic在1998年就推出了2.4Ghz的产品，2006年左右，Nordic联合NOKIA开发出了一种超低功耗蓝牙无线技术Wibree，可以说这是当前流行的BLE的前身。
 
-* [NRF51](https://github.com/sochub/NRF51)
-	* [nRF51422](https://github.com/sochub/nRF51422) 
+###  [相关产品](https://github.com/sochub/Nordic)  
+
+* [nRF24](https://github.com/sochub/nRF24)
+	* [nRF24LE1](https://github.com/sochub/nRF24LE1) 
+* [nRF51](https://github.com/sochub/NRF51)
+	* [nRF51802](https://github.com/sochub/nRF51802) 
 	* [nRF51822](https://github.com/sochub/nRF51822) 
-	* [nRF51824](https://github.com/sochub/nRF51824) 
-* [NRF52](https://github.com/sochub/NRF52)
+* [nRF52](https://github.com/sochub/nRF52)
 	* [nRF52810](https://github.com/sochub/nRF52810) 
 	* [nRF52811](https://github.com/sochub/nRF52811) 
 	* [nRF52832](https://github.com/sochub/nRF52832) 
 	* [nRF52840](https://github.com/sochub/nRF52840) 
+* [nRF53](https://github.com/sochub/nRF53)
+	* [nRF5340](https://github.com/sochub/nRF5340) 
+	
 
-### [替换方案](https://github.com/sochub/Nordic)
+### [相关方案](https://github.com/sochub)
 
-* 替换方案 [德仪TI](https://github.com/sochub/TI)
-* 替换方案 [博通BK](https://github.com/sochub/BK)
+* [德仪TI](https://github.com/sochub/TI)
+* [博通BK](https://github.com/sochub/BK)
 
-##  [SoC资源平台](http://www.qitas.cn)
+###  [SoC芯平台](http://SoC.Xin) 
