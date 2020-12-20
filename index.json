@@ -50,11 +50,12 @@
         "Imax": 120
     },
     "EMC": {
+        "EFT": "4KV",
         "ESD": "4KV"
     },
-    "vendor":"sinomicon",
+    "vendor":"socmcu",
     "url":"http://www.SoC.xin/SC92F8003",
     "repo":"https://github.com/SoCXin/SC92F8003",
-    "homepage": "http://www.sinomicon.cn/prod_view.aspx?TypeId=65&Id=177&FId=t3:65:3",
+    "homepage": "https://www.socmcu.com/index.php?m=Product&a=detail&id=159",
     "version":"1.0.0"
 }
