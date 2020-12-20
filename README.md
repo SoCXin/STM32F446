@@ -1,28 +1,28 @@
-﻿# [Nordic](https://github.com/sochub/Nordic)
+﻿# [SC92F8003](https://github.com/SoCXin/SC92F8003)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-[Nordic](https://www.nordicsemi.com) 成立于1983年挪威，主要致力于混频电路，模拟电路，数字电路的IP设计和高频短距离RF IC的开发。Nordic在1998年就推出了2.4Ghz的产品，2006年左右，Nordic联合NOKIA开发出了一种超低功耗蓝牙无线技术Wibree，可以说这是当前流行的BLE的前身。
+#### [Vendor](https://github.com/SoCXin/Vendor)：[socmcu](https://www.socmcu.com/)
+#### [Core](https://github.com/SoCXin/8051)：[8051](https://github.com/SoCXin/8051)
+#### [Level](https://github.com/SoCXin/Level)：16MHz
 
-###  [相关产品](https://github.com/sochub/Nordic)  
+[SC92F8003](https://github.com/SoCXin/SC92F8003)高速1T 8051内核Flash MCU ，512 bytes SRAM ，16 Kbytes Flash，128 bytes独立EEPROM，8路12位ADC，7路10位PWM，3个定时器，UART ，SSI ，Check Sum校验模块
 
-* [nRF24](https://github.com/sochub/nRF24)
-	* [nRF24LE1](https://github.com/sochub/nRF24LE1) 
-* [nRF51](https://github.com/sochub/NRF51)
-	* [nRF51802](https://github.com/sochub/nRF51802) 
-	* [nRF51822](https://github.com/sochub/nRF51822) 
-* [nRF52](https://github.com/sochub/nRF52)
-	* [nRF52810](https://github.com/sochub/nRF52810) 
-	* [nRF52811](https://github.com/sochub/nRF52811) 
-	* [nRF52832](https://github.com/sochub/nRF52832) 
-	* [nRF52840](https://github.com/sochub/nRF52840) 
-* [nRF53](https://github.com/sochub/nRF53)
-	* [nRF5340](https://github.com/sochub/nRF5340) 
-	
+[![sites](docs/SC92F8003.png)](https://www.socmcu.com/index.php?m=Product&a=detail&id=159)
 
-### [相关方案](https://github.com/sochub)
+#### 关键特性
 
-* [德仪TI](https://github.com/sochub/TI)
-* [博通BK](https://github.com/sochub/BK)
+*
 
-###  [SoC芯平台](http://SoC.Xin) 
+### [资源收录](https://github.com/SoCXin/SC92F8003)
+
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
+
+[SC92F8003](https://github.com/SoCXin/SC92F8003)
+
+
+###  [www.SoC.xin(芯)](http://www.SoC.Xin)
