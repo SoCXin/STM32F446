@@ -30,5 +30,9 @@
 
 [STM32F446](https://github.com/SoCXin/STM32F446)
 
+#### 高完成度开源项目
+
+* [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)
+* [GRBL-Advanced](https://github.com/Schildkroet/GRBL-Advanced)
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
