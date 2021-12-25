@@ -2,9 +2,9 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-
 * [ST](https://www.st.com/zh/): [Cortex-M4](https://github.com/SoCXin/Cortex)
 * [L5R5](https://github.com/SoCXin/Level): 180 MHz (225 DMIPS,608 CoreMark)
+* [Xin文档](https://docs.soc.xin/STM32F446)
 
 ## [简介](https://github.com/SoCXin/STM32F446/wiki)
 
@@ -23,7 +23,6 @@
 * [参考资源](src/)
 * [参考文档](docs/)
 * [参考工程](project/)
-* [入门教程](https://docs.soc.xin/STM32F446)
 
 
 ### [选型建议](https://github.com/SoCXin)
